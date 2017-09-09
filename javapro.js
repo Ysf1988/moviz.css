@@ -1,7 +1,6 @@
 
 
 
-$('#item-left a').attr('href').replace('pexels.com/', "replacedlink.com");
 
 jQuery.easing["jswing"] = jQuery.easing["swing"];
 jQuery.extend(jQuery.easing, {
